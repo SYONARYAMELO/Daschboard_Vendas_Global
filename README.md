@@ -54,7 +54,6 @@ Construir um dashboard interativo no Power BI capaz de responder perguntas-chave
 ---
 
 ## 📌 Observações
-- Os dados são fictícios e utilizados apenas para fins acadêmicos.
 - Este projeto foi desenvolvido como exercício prático para aplicar conceitos de **Business Intelligence** e **visualização de dados**.
 
 ---
